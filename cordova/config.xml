@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tebris-demo" version="0.1.0">
+  <name>Tebris Demo</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="jigarmistry24@gmail.com">
+    jigarmistry
+  </author>
+</widget>
